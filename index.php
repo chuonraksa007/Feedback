@@ -15,4 +15,6 @@ if(!($_COOKIE['pass'] == $rows[1][PASS]))
 else { echo "Password entered is correct"; }
 
  ////.....my further code here.
+
+// I am very happy to working with Github now.
   ?> 
